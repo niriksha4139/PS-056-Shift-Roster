@@ -1,0 +1,4 @@
+shift_code,start_time,end_time,paid_hours,unpaid_break_minutes
+MORNING,06:00,14:00,7.50,30
+EVENING,14:00,22:00,7.50,30
+NIGHT,22:00,06:00,7.50,30
